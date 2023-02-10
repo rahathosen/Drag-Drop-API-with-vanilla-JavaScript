@@ -1,0 +1,24 @@
+.unloader{
+
+    box-sizing: border-box;
+    max-width: 90%;
+    border-radius: 10px;
+    border-bottom: 3px solid #d2d5da;
+    margin: 25px auto;
+    padding: 25px;
+    background: #fff;
+}
+.dragme{
+
+    background: purple;
+    border-radius: 5px  ;
+    height: 50px;
+    width: 50px;
+}
+.dragzone{
+    border-radius: 5px;
+    margin-top: 25px;
+    padding: 25px;
+    border:2px dashed #d2d5da;
+    background: #f1f2f5;
+}
